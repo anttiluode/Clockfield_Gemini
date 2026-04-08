@@ -1,0 +1,25 @@
+{
+  "tau": 2.737,
+  "gamma_at_threshold": 0.07160672384272614,
+  "gemini_growth_K": 0.42,
+  "peak_band_positions_hours": [
+    8.358358358358359,
+    9.559559559559556,
+    22.272272272272275,
+    23.323323323323322,
+    38.13813813813814,
+    39.13913913913914,
+    40.140140140140126
+  ],
+  "mean_gamma_at_freeze": 0.03173505957311388,
+  "max_gamma_at_freeze": 0.07134134624046466,
+  "min_gamma_at_freeze": 0.00896382658574867,
+  "correspondence_identities": [
+    "Threshold condition: C_r > C_Xi <-> beta > Xi",
+    "Growth law: R = (Kt+A)^(1/3) is volume recorder, Clockfield BH is surface recorder",
+    "Takens embedding: radial position = temporal Takens map",
+    "Isotropy: octahedral O_h symmetry <-> closed Gamma-shell",
+    "Exchange rate: k_off(t) ~ 1/R(t) <-> T_Hawking ~ 1/M",
+    "Noise floor: C_noise determines temporal resolution <-> sigma sets freeze statistics"
+  ]
+}
